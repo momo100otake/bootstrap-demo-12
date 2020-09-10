@@ -202,7 +202,7 @@ hr.light-100 {
 
 @media (max-width :576px) {
     .logo-img {
-        width: 50%;
+        size: 50%;
     }
     .carousel-caption {
         top: 40%;
